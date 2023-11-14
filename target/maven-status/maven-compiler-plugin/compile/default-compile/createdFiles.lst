@@ -1,0 +1,5 @@
+CkDev\Studios\BudgetApp\BudgetAppApplication.class
+CkDev\Studios\BudgetApp\controller\UserController.class
+CkDev\Studios\BudgetApp\model\UserEntity.class
+CkDev\Studios\BudgetApp\service\UserService.class
+CkDev\Studios\BudgetApp\repository\UserRepository.class
